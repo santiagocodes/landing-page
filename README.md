@@ -6,6 +6,7 @@ Simple landing page using BootStrap and MailChimp.<br>
 </p>
 
 <img height="90px" align="left" src="https://santiagocodes.github.io/santiagocodes/images/octocat-santiagocodes.png" alt="santiagocodes octocat" />
+
 # Setup & Customization
 
 ## Cloning the Project
